@@ -1,8 +1,6 @@
 
 # 📝 Publications 
 
-# 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/UoT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
