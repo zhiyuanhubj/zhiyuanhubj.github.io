@@ -16,7 +16,7 @@
 
 [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)
 
-Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi (Co-first Author)
+Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi
 
 </div>
 </div>
@@ -26,7 +26,7 @@ Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi
 
 [MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Audaptabiulity, Ratiuonality and Cuollaboration.](https://arxiv.org/abs/2311.08562)
 
-Lin Xu, **Zhiyuan Hu**, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutze, See-Kiong Ng, Jiashi Feng.
+Lin Xu, **Zhiyuan Hu**, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutze, See-Kiong Ng, Jiashi Feng.  (Co-first Author)
 
 </div>
 </div>
