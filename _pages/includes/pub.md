@@ -21,7 +21,7 @@ Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Magic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/ICLR 2024@LLM Agent Workshop</div><img src='images/Magic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Audaptabiulity, Ratiuonality and Cuollaboration.](https://arxiv.org/abs/2311.08562)
