@@ -16,7 +16,7 @@
 
 [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063)
 
-Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi
+Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi (Co-first Author)
 
 </div>
 </div>
