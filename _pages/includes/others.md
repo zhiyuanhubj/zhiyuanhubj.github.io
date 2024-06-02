@@ -13,7 +13,7 @@
 # Services
 - Student Chair (2023-2024) NUS IDS NLP SIG
 - Organizator of “AAAI-2019 and AAAI-2022 Chinese Seminar”
-- Reviewer: ACL 2022 - Now, EMNLP 2022-Now, AACL2022-Now, COLING 2022 - Now, SIGIR23, KDD23, ARR from Dec 2023 - Now
+- Reviewer: ACL 2022 - Now, EMNLP 2022-Now, AACL2022-Now, COLING 2022 - Now, SIGIR23, KDD23, ARR from Dec 2023 - Now, NeurIPS 2024
 - TA: CS3244 Machine Learning, CS5228 Knowledge Discovery and Data Mining
 
 # Resource
