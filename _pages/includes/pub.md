@@ -65,6 +65,8 @@ Richong Zhang, **Zhiyuan Hu**, Hongyu Guo, and Yongyi Mao
 
 - ``AAAI 2024`` [READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in LowResource Video-Language Modeling.](https://arxiv.org/abs/2312.06950), Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Khoi Le, **Zhiyuan Hu**, Cong-Duy Nguyen, See Kiong Ng, Anh Tuan Luu.
 
+- ``Preprint`` [Encoding and Controlling Global Semantics for Long-form Video Question Answering.](), Thong Thanh Nguyen, **Zhiyuan Hu**, Xiaobao Wu, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu.
+
 - ``Preprint`` [Enhancing Large Language Model Induced Task-Oriented Dialogue Systems Through Look-Forward Motivated Goals.](https://arxiv.org/abs/2309.08949), **Zhiyuan Hu**, Yue Feng, Yang Deng, Zekun Li, See-Kiong Ng, Anh Tuan Luu, Bryan Hooi.
 
 - ``ACM TOIS 2020`` [airwise Link Prediction Model for Out of Vocabulary Knowledge Base Entities](https://dl.acm.org/doi/pdf/10.1145/3406116), Richong Zhang, Samuel Mensah, Fanshuang Kong, **Zhiyuan Hu**, Yongyi Mao, Xudong Liu
