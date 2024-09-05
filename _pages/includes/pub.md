@@ -1,6 +1,16 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LongRecipe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LongRecipe: Recipe for Efficient Long Context Generalization in Large Language Models](https://arxiv.org/abs/2409.00509v2)
+
+**Zhiyuan Hu**, Yuliang Liu, Jinman Zhao, Suyuchen Wang, Yan Wang, Wei Shen, Qing Gu, Anh Tuan Luu, See-Kiong Ng, Zhiwei Jiang, Bryan Hooi
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CodeGraph.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
