@@ -21,7 +21,7 @@ Xiangyan Liu, Bo Lan, **Zhiyuan Hu**, Yang Liu, Zhicheng Zhang, Wenmeng Zhou, Fe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/ICLR 2024@LLM Agent Workshop</div><img src='images/UoT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 & ICLR 2024@LLM Agent Workshop</div><img src='images/UoT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models](https://arxiv.org/abs/2402.03271)
@@ -41,7 +41,7 @@ Miao Xiong, **Zhiyuan Hu**, Xinyang Lu, Yifei Li, Jie Fu, Junxian He, Bryan Hooi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/ICLR 2024@LLM Agent Workshop</div><img src='images/Magic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 & ICLR 2024@LLM Agent Workshop</div><img src='images/Magic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Audaptabiulity, Ratiuonality and Cuollaboration.](https://arxiv.org/abs/2311.08562)
@@ -75,7 +75,7 @@ Richong Zhang, **Zhiyuan Hu**, Hongyu Guo, and Yongyi Mao
 
 - ``AAAI 2024`` [READ-PVLA: Recurrent Adapter with Partial Video-Language Alignment for Parameter-Efficient Transfer Learning in LowResource Video-Language Modeling.](https://arxiv.org/abs/2312.06950), Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Khoi Le, **Zhiyuan Hu**, Cong-Duy Nguyen, See Kiong Ng, Anh Tuan Luu.
 
-- ``Preprint`` [Encoding and Controlling Global Semantics for Long-form Video Question Answering.](), Thong Thanh Nguyen, **Zhiyuan Hu**, Xiaobao Wu, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu.
+- ``EMNLP 2024`` [Encoding and Controlling Global Semantics for Long-form Video Question Answering.](), Thong Thanh Nguyen, **Zhiyuan Hu**, Xiaobao Wu, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu.
 
 - ``Preprint`` [Enhancing Large Language Model Induced Task-Oriented Dialogue Systems Through Look-Forward Motivated Goals.](https://arxiv.org/abs/2309.08949), **Zhiyuan Hu**, Yue Feng, Yang Deng, Zekun Li, See-Kiong Ng, Anh Tuan Luu, Bryan Hooi.
 
