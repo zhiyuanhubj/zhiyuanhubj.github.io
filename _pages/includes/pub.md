@@ -66,7 +66,7 @@ Lin Xu, **Zhiyuan Hu**, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutze, See-Kio
 
 [Syntax Encoding with Application in Authorship Attribution](https://aclanthology.org/D18-1294.pdf)
 
-Richong Zhang, **Zhiyuan Hu**, Hongyu Guo, and Yongyi Mao
+**Zhiyuan Hu**, Richong Zhang, Hongyu Guo, and Yongyi Mao
 
 </div>
 </div>
