@@ -1,7 +1,17 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LongRecipe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aha' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](https://arxiv.org/abs/2505.10554)
+
+**Zhiyuan Hu**, Yibo Wang, Hanze Dong, Yuhui Xu, Amrita Saha, Caiming Xiong, Bryan Hooi, Junnan Li
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/LongRecipe.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LongRecipe: Recipe for Efficient Long Context Generalization in Large Language Models](https://arxiv.org/abs/2409.00509v2)
@@ -11,7 +21,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CodeGraph.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/CodeGraph.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](https://arxiv.org/abs/2408.03910)
