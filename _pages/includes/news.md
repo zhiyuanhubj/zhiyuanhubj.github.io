@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.05*: 🎉 One papers are accepted by ACL 2025.
+- *2025.05*: 🎉 One papers are accepted by ACL 2025.
 - *2025.03*: 🎉 Invited to serve as Area Chair for ACL 2025 and CIKM 2025
 - *2024.12*: 🎉 Our workshop proposal - [Reasoning and Planning for LLMs](https://workshop-llm-reasoning-planning.github.io/) - is accepted by ICLR 2025, welcome the submission
 - *2024.09*: 🎉 I am honored to be recognized as an outstanding reviewer in at EMNLP 2024.
