@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.11*: 🎉 I have honored to get Thinking Machine Research Grant.
+- *2025.11*: 🎉 Happy to be selected as a DAAD AInet Fellow (2025).
 - *2025.05*: 🎉 One papers are accepted by ACL 2025.
 - *2025.03*: 🎉 Invited to serve as Area Chair for ACL 2025 and CIKM 2025
 - *2024.12*: 🎉 Our workshop proposal - [Reasoning and Planning for LLMs](https://workshop-llm-reasoning-planning.github.io/) - is accepted by ICLR 2025, welcome the submission
