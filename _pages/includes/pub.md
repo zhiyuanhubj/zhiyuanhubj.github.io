@@ -4,6 +4,36 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aha.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763)
+
+**Zhiyuan Hu**, Yucheng Wang, Yufei He, Jiaying Wu, Yilun Zhao, See-Kiong Ng, Cynthia Breazeal, Anh Tuan Luu, Hae Won Park, Bryan Hooi
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aha.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667)
+
+**Zhiyuan Hu**, Yunhai Hu, Juncheng Liu, Shuyue Stella Li, Yucheng Wang, Zhen Xu, See-Kiong Ng, Anh Tuan Luu, Xinxing Xu, Bryan Hooi, Cynthia Breazeal, Hae Won Park
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/aha.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evotest: Evolutionary test-time learning for self-improving agentic systems](https://arxiv.org/abs/2510.13220)
+
+Yufei He, Juncheng Liu, Yue Liu, Yibo Li, Tri Cao, **Zhiyuan Hu**, Xinxing Xu, Bryan Hooi
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/aha.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Beyond'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](https://arxiv.org/abs/2505.10554)
 
 **Zhiyuan Hu**, Yibo Wang, Hanze Dong, Yuhui Xu, Amrita Saha, Caiming Xiong, Bryan Hooi, Junnan Li
